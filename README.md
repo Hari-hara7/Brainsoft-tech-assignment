@@ -10,7 +10,7 @@ Built with ⚡ **Vite + React + TypeScript**, styled using the modern and elegan
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed project](https://brainsoft-tech-assignment.vercel.app)
+👉 [Click here to view the deployed project](https://brainsoft-tech-assignment.vercel.app/)
 
 ---
 
