@@ -44,6 +44,16 @@ npx shadcn-ui@latest add separator
 npx shadcn-ui@latest add tooltip
 
 
-## 📁 Project Structure
 
 # Brainsoft-tech-assignment
+
+## ☁️ How to Deploy on Vercel
+
+1. ✅ Push your code to GitHub (already done)
+2. 🌐 Visit [https://vercel.com](https://vercel.com)
+3. 🔐 Login with GitHub
+4. ➕ Click **"New Project"**
+5. 📁 Select the repo: `Hari-hara7/Brainsoft-tech-assignment`
+6. ⚙️ Use default **Vite** settings
+7. 🚀 Click **Deploy**
+
