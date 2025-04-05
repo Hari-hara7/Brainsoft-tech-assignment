@@ -28,6 +28,22 @@ Built with ⚡ **Vite + React + TypeScript**, styled using the modern and elegan
 
 ---
 
+
+
+## 📦 ShadCN UI Components Used
+
+Install the following UI components via CLI:
+
+```bash
+npx shadcn-ui@latest add button
+npx shadcn-ui@latest add input
+npx shadcn-ui@latest add card
+npx shadcn-ui@latest add label
+npx shadcn-ui@latest add alert
+npx shadcn-ui@latest add separator
+npx shadcn-ui@latest add tooltip
+
+
 ## 📁 Project Structure
 
 # Brainsoft-tech-assignment
