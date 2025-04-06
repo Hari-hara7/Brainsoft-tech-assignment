@@ -78,7 +78,7 @@ export const Home = () => {
                     id="username"
                     value={username}
                     onChange={(e) => setUsername(e.target.value)}
-                    placeholder="eg: torvalds"
+                    placeholder="eg: Hari-hara7"
                   />
                 </TooltipTrigger>
                 <TooltipContent>
